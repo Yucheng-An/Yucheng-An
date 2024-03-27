@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Yucheng An</h1>
-<h3 align="center">I LOVE CODING!</h3>
+<h3 align="center">MS of Computer Science, BS of Electric Engineering, Program Developor</h3>
 
-- 🌱 I’m currently learning **backend programming**
+- 📖 I’m currently learning **machine learning, system design, algorithm design, **
 
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **coding (never stop learning!)**
+
+- 👯 I’m looking to collaborate on **program project**
+
+- 💬 Ask me about **tech-devices, algorithm, computer components**
 
 - 📫 How to reach me **yuc.an2019@gmail.com**
 
+- ⚡ Fun fact **Skiing! Snowboarding! Skate! Computer!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/yucheng_an0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yucheng_an0" height="30" width="40" /></a>
+<a href="https://discord.gg/polaris3905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="polaris3905" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
