@@ -1,4 +1,8 @@
 <h1 align="center">Hiii~~~ 👋, I'm Andy(Yucheng)</h1>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yucheng-anandy/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Yucheng-An)
+
 <h3 align="center">Software Developing Engineering, Masters of Science in Computer Science, Bachelor of Electrical Engineering</h3>
 
 - 🌱 I’m currently learning **algorithm,system design,framework**
